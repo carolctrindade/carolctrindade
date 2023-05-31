@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Carolina C. Trindade
+### Hi there 👋 I'm Carolina, but you can call me Carol!
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and some other things about Back-end!
+- 🌱 I’m currently learning Python and some other things about Back-end!
 <!--
 **carolctrindade/carolctrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
